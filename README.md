@@ -1,5 +1,3 @@
----
-
 # Quora Questions Auto-Complete Suggester
 
 **Quora Questions Auto-Complete Suggester** is a tool designed to help users find the most similar questions from the Quora dataset based on a user-inputted question. By leveraging semantic search techniques, the tool provides relevant suggestions with a similarity score, making it easier to find related questions or content.
