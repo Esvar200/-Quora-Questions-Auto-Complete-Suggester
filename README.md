@@ -44,8 +44,4 @@ The project uses the [Quora Questions Dataset](https://www.quora.com/q/quoradata
 
 Contributions are welcome! Please fork this repository and submit a pull request for any feature enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
