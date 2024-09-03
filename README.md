@@ -22,8 +22,8 @@ The project uses the [Quora Questions Dataset](https://www.quora.com/q/quoradata
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Quora_Questions_Auto_Complete_Suggester.git
-    cd Quora_Questions_Auto_Complete_Suggester
+    git clone https://github.com/Esvar200/Quora-Questions-Auto-Complete-Suggester.git
+    cd Quora-Questions-Auto-Complete-Suggester
     ```
 
 2. **Install Dependencies**:
